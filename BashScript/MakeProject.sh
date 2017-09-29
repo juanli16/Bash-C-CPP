@@ -34,7 +34,8 @@ cd $1/source
 touch backup.sh
 echo "#!/bin/bash" >> backup.sh
 echo "path=pwd" >> backup.sh
-echo "cp *.c *.h $path+'../backup' >> backup.sh
+echo "cp *.c *.h $path+'../backup'" >> backup.sh
+echo "exit 0" >> backup.sh
 chmod 754 backup.sh
 
 #And we are done!
