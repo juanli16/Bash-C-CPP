@@ -2,7 +2,7 @@
 
 
 #Go to home directory
-cd /home/cnd/jli215
+cd /home/justin
 
 #check if subfolder project exists, if not create it.
 if [ ! -e project ];then 
@@ -33,7 +33,8 @@ cd $1/source
 #Generate a backup.sh script
 touch backup.sh
 echo "#!/bin/bash" >> backup.sh
-echo "cp *.c *.h ../backup/" >> backup.sh
+echo "path=pwd" >> backup.sh
+echo "cp *.c *.h $path+'../backup' >> backup.sh
 chmod 754 backup.sh
 
 #And we are done!
