@@ -1,0 +1,6 @@
+#Compiled C code
+*.o
+*.so
+*.out
+
+
