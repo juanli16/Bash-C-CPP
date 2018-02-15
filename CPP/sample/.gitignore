@@ -1,0 +1,5 @@
+#compiled c++/c codes
+*.o
+*.out
+*.so
+
