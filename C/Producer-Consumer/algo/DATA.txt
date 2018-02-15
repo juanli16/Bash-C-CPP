@@ -1,0 +1,9 @@
+just the tip
+holly jolly christmas, fat men rejoice
+do you remember when... we used to sing: shalalalalalalalaladida ladida
+1 2 3 4 5 6 7 8 9 0
+
+Is P = NP?
+
+A language is regular if and only if some finite state automata recognizes it. 
+

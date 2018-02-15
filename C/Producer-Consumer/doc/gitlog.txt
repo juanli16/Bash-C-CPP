@@ -1,0 +1,90 @@
+commit c5e3caef492717fa6ecb957307a1d1dcf3e8eee3
+Author: Constance BENOIT <cbenoi15@ds2.CS.McGill.CA>
+Date:   Fri Dec 8 19:51:55 2017 -0500
+
+    rewritten
+
+commit a69a0808368c4f4072e5ebebe6591a8d42e31114
+Author: Juan Yao LI <jli215@ds2.CS.McGill.CA>
+Date:   Fri Dec 8 19:12:06 2017 -0500
+
+    Changed test
+
+commit 7451e2927529ae1efb6e17d741e1c5887e31eb36
+Author: Juan Yao LI <jli215@ds2.CS.McGill.CA>
+Date:   Fri Dec 8 19:06:06 2017 -0500
+
+    Finished Main, Producer and makefile
+
+commit 6044e3bb19f32b0fc780e9ed6c8722d31054fc71
+Author: Justin Li <juan.y.li@mail.mcgill.ca>
+Date:   Fri Dec 8 19:04:15 2017 -0500
+
+    Delete mydata.txt
+
+commit 3997474afc9afcf8d965efc30d77296bd771992b
+Author: Justin Li <juan.y.li@mail.mcgill.ca>
+Date:   Fri Dec 8 19:03:52 2017 -0500
+
+    Delete Consumer.c
+
+commit 43218db47cf31f2adc256862eaff855df836cbc8
+Author: Constance BENOIT <cbenoi15@ds2.CS.McGill.CA>
+Date:   Mon Dec 4 15:27:36 2017 -0500
+
+    begin consumer (wrong approach)
+
+commit 4d1f11716216c29e54e3bc7027b17daf04ae3f57
+Author: Juan Yao LI <jli215@ds2.CS.McGill.CA>
+Date:   Tue Nov 28 12:38:22 2017 -0500
+
+    Main file can properly set shell variables
+
+commit 3fbb552225bb91b825c78ec8382f131aea935274
+Merge: e149f03 048242a
+Author: Juan Yao LI <jli215@ds2.CS.McGill.CA>
+Date:   Tue Nov 28 12:37:18 2017 -0500
+
+    Merge branch 'producer'
+
+commit 048242a7e3525c5e8d6ea638825fd039a1ebb733
+Author: Juan Yao LI <jli215@ds2.CS.McGill.CA>
+Date:   Tue Nov 28 12:36:22 2017 -0500
+
+    Working on Consumer
+
+commit 8d0459908b89a0b66ffb6cfe662138355f20fe88
+Author: Juan Yao LI <jli215@ds2.CS.McGill.CA>
+Date:   Tue Nov 28 12:33:46 2017 -0500
+
+    Main can properly set shell variables
+
+commit e149f0369c4677a30859fb32c2d884c127d5211a
+Author: Constance BENOIT <cbenoi15@ds2.CS.McGill.CA>
+Date:   Tue Nov 28 12:22:57 2017 -0500
+
+    created text file
+
+commit fcdf09ddf2cc6ca96af98841c0c91ead92687428
+Author: Juan Yao LI <jli215@ds2.CS.McGill.CA>
+Date:   Tue Nov 28 10:29:00 2017 -0500
+
+    Initialize files
+
+commit bb43502e208b29fe60cd2e83069cc3b9dbe8616d
+Author: Juan Yao LI <jli215@ds2.CS.McGill.CA>
+Date:   Tue Nov 28 10:24:17 2017 -0500
+
+    Initialize branches
+
+commit b75f7f8b4ce9179b56af36c6a7aa8a65f4b362dd
+Author: Juan Yao LI <jli215@ds2.CS.McGill.CA>
+Date:   Tue Nov 28 10:21:53 2017 -0500
+
+    Initial commit
+
+commit e3e4b14f20a8e378cacca7bed471e720812e12df
+Author: Justin Li <juan.y.li@mail.mcgill.ca>
+Date:   Tue Nov 28 09:41:45 2017 -0500
+
+    Initial commit
